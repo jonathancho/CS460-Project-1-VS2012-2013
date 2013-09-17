@@ -1,0 +1,10 @@
+
+// material properties
+@Ambient@ 1.0 0.5 0.5 0.5
+@Diffuse@ 1.0 1.0 1.0 1.0
+@Specular@ 1.0 1.0 1.0 1.0
+@Emissive@ 1.0 1.0 1.0 1.0
+@Power@ 10.0
+
+// the layers of the surface
+@Layer@ "CheckerBoard.sfl"

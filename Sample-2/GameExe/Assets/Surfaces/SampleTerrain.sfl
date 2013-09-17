@@ -1,0 +1,6 @@
+
+// the text in quotes following the Texture tag represents
+// the file name, with extension, of the Texture to use
+// for this SurfaceLayer
+
+@Texture@ "TerrainDirt.jpg"

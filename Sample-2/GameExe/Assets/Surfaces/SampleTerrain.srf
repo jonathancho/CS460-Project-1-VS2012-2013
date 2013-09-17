@@ -1,0 +1,10 @@
+
+// material properties
+@Ambient@ 1.0 0.5 0.5 0.5
+@Diffuse@ 1.0 1.0 1.0 1.0
+@Specular@ 0.0 0.0 0.0 0.0
+@Emissive@ 1.0 0.1 0.1 0.1
+@Power@ 0.0
+
+// the layers of the surface
+@Layer@ "SampleTerrain.sfl"

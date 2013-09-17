@@ -1,0 +1,21 @@
+// sample Surface file (.srf)
+
+// the Ambient, Diffuse, Specular, Emissive, and Power tags
+// represent the Surface lighting properties
+// the order of the components for each vector is A,R,G,B,
+// where each component is separated by a space
+
+// the text in quotes following each Layer tag
+// represents the file name, with extension,of
+// the SurfaceLayer to be inserted (in the order in 
+// which they appear) into the Surface's layer array
+
+// material properties
+@Ambient@ 1.0 0.5 0.5 0.5
+@Diffuse@ 1.0 1.0 1.0 1.0
+@Specular@ 1.0 1.0 1.0 1.0
+@Emissive@ 1.0 0.1 0.1 0.1
+@Power@ 10.0
+
+// the layers of the surface
+@Layer@ "Sample.sfl"

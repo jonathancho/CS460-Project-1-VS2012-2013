@@ -1,0 +1,7 @@
+// sample SurfaceLayer file (.sfl)
+
+// the text in quotes following the Texture tag represents
+// the file name, with extension, of the Texture to use
+// for this SurfaceLayer
+
+@Texture@ "Sample.tga"
